@@ -18,9 +18,7 @@ This creates a **real conversation loop**, enabling natural practice of English 
 
 ## 🎥 Working Demo
 
-1. **Upload your voice recording (MP3/WAV)** or **type text**.  
-2. Genie transcribes your voice → understands your question → responds like a teacher.  
-3. Hear Genie’s reply in English voice, or translate it to a **regional language** with spoken playback.  
+[Watch the SpeakGenie demo here](https://drive.google.com/file/d/1UL3MFj7jhag7G6bh9zm-XA9ChoGm9IcC/view?usp=sharing)
 
 ---
 
@@ -82,3 +80,4 @@ This creates a **real conversation loop**, enabling natural practice of English 
 
 👩‍🎓 SpeakGenie = **AI + Voice + Education** 🎙️  
 Helping kids practice English naturally, anywhere, anytime.  
+
