@@ -1,0 +1,13 @@
+{
+  "At School": [
+    {"student": "Good morning, teacher!", "genie": "Good morning! How are you today? 😊"},
+    {"student": "I am fine.", "genie": "Great! Which subject do you like the most and why?"}
+  ],
+  "At the Store": [
+    {"student": "I want to buy apples.", "genie": "Sure! How many apples would you like? 🍎"},
+    {"student": "Three apples please.", "genie": "Okay! Anything else you need?"}
+  ],
+  "At Home": [
+    {"student": "I finished my homework.", "genie": "Awesome! Could you tell me what you learned today? 📖"}
+  ]
+}
